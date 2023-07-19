@@ -1,3 +1,3 @@
 # hello-world
 Repositório criado a pedido da Cubos Academy!
-Esse repositório foi criado com intuito de avaliar nosso aprendizado neste módulo inicial. E ele foi alocado dentro de uma pasta, na minha máquina após executar o comando "git clone" no terminal "VS CODE" criando uma repositório idêntico ao que se encontra "cloud".
+Esse repositório foi criado com intuito de mostrar nosso aprendizado neste módulo inicial. E ele foi alocado dentro de uma pasta, na minha máquina após executar o comando "git clone" no terminal "VS CODE" criando um repositório idêntico ao que se encontra na "cloud". Após ter sido feito uma cópia dessa versão, utilizando o comando "git commit" na minha máquina, enviei essa modificação, apenas presente em minha máquina até então, para o GitHub por meio do comando "git push" para que esta nova alteração pudesse estar presente no GitHub e assim manter uma cópia integral de minhas modificações nesta pasta de trabalho.
